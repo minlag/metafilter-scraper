@@ -4,7 +4,7 @@ A simple [Selenium](https://www.selenium.dev/) scraper for [MetaFilter](https://
 
 ## Motivations
 
-This tool is intended to make the archivism of historic [MetaFilter](https://www.metafilter.com/) content more accessible. It can quickly and automatically scrape all of a user's site activity.
+This tool is intended to make the archival of historic [MetaFilter](https://www.metafilter.com/) content more accessible. It can quickly and automatically scrape all of a user's site activity.
 
 ## Usage
 
